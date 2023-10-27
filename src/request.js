@@ -7,7 +7,7 @@ const requests = {
   fetchActionMovie: `/discover/movie?api_key=${API_KEY}&include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&with_genres=28`,
   fetchComedyMovie: `/discover/movie?api_key=${API_KEY}&include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&with_genres=35`,
   fetchHorrorMovie: `/discover/movie?api_key=${API_KEY}&include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&with_genres=27`,
-  fetchRomancemovie: `/discover/movie?api_key=${API_KEY}&include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&with_genres=10748`,
+  fetchRomancemovie: `/discover/movie?api_key=${API_KEY}&include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&with_genres=107`,
   fetchDocumentaries: `/discover/movie?api_key=${API_KEY}&include_adult=false&include_video=false&language=en-US&sort_by=popularity.desc&with_genres=99`,
 };
 
